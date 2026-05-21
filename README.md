@@ -10,13 +10,16 @@ Cliquez sur le badge **Open in Colab** du notebook souhaité pour l'ouvrir direc
 
 | # | Notebook | Thèmes | Ouvrir |
 |---|----------|--------|--------|
-| 00 | **Introduction** | Environnement, Python de base, NumPy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RomainMeunier64/DIADEM_Formation/blob/main/00_introduction.ipynb) |
-| 01 | **Pandas & Manipulation de données** | DataFrame, nettoyage, groupby, agrégations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RomainMeunier64/DIADEM_Formation/blob/main/01_pandas_bases.ipynb) |
-| 02 | **Visualisation** | Matplotlib, Seaborn, Plotly interactif | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RomainMeunier64/DIADEM_Formation/blob/main/02_visualisation.ipynb) |
-| 03 | **Statistiques** | Descriptives, corrélations, tests statistiques | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RomainMeunier64/DIADEM_Formation/blob/main/03_statistiques.ipynb) |
-| 04 | **Machine Learning** | Pipeline ML, classification, régression, évaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RomainMeunier64/DIADEM_Formation/blob/main/04_machine_learning.ipynb) |
+| 00 | **Introduction** | Environnement, Python de base, NumPy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RomainMeunier64/DIADEM_Formation/blob/main/notebooks/00_introduction.ipynb) |
+| 01 | **Pandas & Manipulation de données** | DataFrame, nettoyage, groupby, agrégations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RomainMeunier64/DIADEM_Formation/blob/main/notebooks/01_pandas_bases.ipynb) |
+| 02 | **Visualisation** | Matplotlib, Seaborn, Plotly interactif | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RomainMeunier64/DIADEM_Formation/blob/main/notebooks/02_visualisation.ipynb) |
+| 03 | **Statistiques** | Descriptives, corrélations, tests statistiques | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RomainMeunier64/DIADEM_Formation/blob/main/notebooks/03_statistiques.ipynb) |
+| 04 | **Machine Learning** | Pipeline ML, classification, régression, évaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RomainMeunier64/DIADEM_Formation/blob/main/notebooks/04_machine_learning.ipynb) |
 
 ---
+
+
+
 
 ## 📋 Prérequis
 
